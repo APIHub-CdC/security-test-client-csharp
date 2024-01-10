@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<configuration>
+    <keypairPath>your_path_for_your_keypair/keypair.p12</keypairPath>
+    <keypairPassword>your_super_secure_keypair_password</keypairPassword>
+    <certificatePath>your_path_for_certificate_of_cdc/cdc_cert.pem</certificatePath>
+</configuration>
