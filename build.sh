@@ -37,7 +37,7 @@ if ! type nuget &>/dev/null; then
 fi
 
 mozroots --import --sync
-${nuget_cmd} install src/IO.RccFicoscore/packages.config -o packages;
+${nuget_cmd} install src/IO.SecurityTest/packages.config -o packages;
 
 echo "[INFO] Copy DLLs to the 'bin' folder"
 mkdir -p bin;
