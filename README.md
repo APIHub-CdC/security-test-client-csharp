@@ -107,7 +107,7 @@ Al iniciar sesión seguir os siguientes pasos:
 
 ### Paso 5. Configuración de verificación y firmado de paloads
 
-Es importante editar el archivo llamado Config.xml que se encuentra en la **/path/to/repository/src/IO.RccFicoscore/Interceptor/Config.xml** dónde encontrará algo como lo siguiente.
+Es importante editar el archivo llamado Config.xml que se encuentra en la **/path/to/repository/src/IO.SecurityTest/Interceptor/Config.xml** dónde encontrará algo como lo siguiente.
 ```xml
     <?xml version="1.0" encoding="utf-8" standalone="no"?>
     <configuration>
